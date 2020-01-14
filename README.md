@@ -1,2 +1,8 @@
-# INSE6110_project
-INSE6110-W2020 Project1
+# INSE6110 Project
+
+## Requirements
+
+- Eclipse
+- Java
+- Github
+- WhatsApp
