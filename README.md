@@ -9,12 +9,12 @@
 
 ## TODO
 
-- Github accounts
-- WhatsApp group
-- Clarify of the requirements of the project
-- Output of the project
-- Demo
-- Deadline
+- [ ] Github accounts
+- [x] WhatsApp group
+- [ ] Clarify of the requirements of the project
+- [ ] Output of the project
+- [ ] Demo
+- [ ] Deadline
 
 ## Development
 
