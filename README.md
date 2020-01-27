@@ -9,7 +9,7 @@
 
 ## TODO
 
-- [ ] Github accounts
+- [x] Github accounts
 - [x] WhatsApp group
 - [ ] Clarify of the requirements of the project
 - [ ] Output of the project
