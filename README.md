@@ -11,10 +11,10 @@
 
 - [x] Github accounts
 - [x] WhatsApp group
-- [ ] Clarify of the requirements of the project
-- [ ] Output of the project
+- [X] Clarify of the requirements of the project
+- [X] Output of the project
 - [ ] Demo
-- [ ] Deadline
+- [X] Deadline
 
 ## Development
 
