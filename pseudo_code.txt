@@ -1,0 +1,36 @@
+
+func Key_Generator :
+	alphabet_List = [0, … , 25];
+	k = []  // Key list;
+	
+	for 0 to 25 :
+		Pick random number from alphabet_List array ——> append to k array;
+
+		Remove chosen number from alphabet_List ;
+
+	return k ;
+
+
+func encryption :
+	
+	alphabet_List = [0, … , 25];
+	plain_text = [] ;
+	cipher_text = []
+	
+	Get input , append to plain_text ;
+	
+	remove punctuation
+	delete all spaces from plain_text; // E.g: Hello world ——> Helloworld
+	capitalize all the plain_text letter; // E.g: Helloworld ——>HELLOWORLD
+
+	k =[]; // Key list
+	k = Key_Generator();
+	
+	for each element in plain_text array : 
+
+		temp =  the number that associated with the letter 
+ 			 in alphabet_List  // E.g:A ——>0 ,Z ——>25
+
+		append k[temp] in cipher_text 
+		
+		
