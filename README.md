@@ -14,7 +14,7 @@
 - [X] Clarify of the requirements of the project
 - [X] Output of the project
 - [ ] Demo
-- [X] Deadline
+- [X] Deadline: April 6
 
 ## Development
 
