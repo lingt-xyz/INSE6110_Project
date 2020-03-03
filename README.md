@@ -1,5 +1,8 @@
 # [INSE6110 Project](http://lingt.xyz/INSE6110_Project/)
 
+## Data source
+- http://norvig.com/mayzner.html
+
 ## Prerequisites
 
 - Language: Java
