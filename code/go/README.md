@@ -9,6 +9,8 @@ A Fast Method for the Cryptanalysis of Substitution Ciphers by Thomas Jakobsen
 
 ## How to run it
 
+You can find binaries in [Release](https://github.com/lingt-xyz/INSE6110_Project/releases).
+
 ### Parameters
 
 - `-c`: cipher opetion; should be `encipher`, `decipher` or `demo`. Required.
