@@ -19,7 +19,7 @@
 - [ ] Demo
 - [X] Deadline: April 6
 
-## Development
+## Development (Deprecated)
 
 1. Download (clone) our repository from Github.
 2. Open Eclipse
@@ -36,3 +36,18 @@
 
 - [Notes about How to create a Java project in Eclipse](https://java.lingt.xyz/ide)
 - [Notes for INSE6110](https://inse6110.lingt.xyz/)
+
+## Development (Go)
+
+### prerequisites
+
+- Language: Go
+- IDE: GoLand
+
+### Code
+
+Go code is under [./code/go/](https://github.com/lingt-xyz/INSE6110_Project/tree/master/code/go)
+
+### Run
+
+You can find how to run it at [here](https://github.com/lingt-xyz/INSE6110_Project/blob/master/code/go/README.md).
