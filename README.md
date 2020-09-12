@@ -5,7 +5,7 @@
 
 ## Prerequisites
 
-- Language: Java
+- Language: ~Java~
 - IDE: Eclipse
 - Version Control: Github
 - Communication: WhatsApp
@@ -35,7 +35,7 @@
 
 ## References
 
-- [Notes about How to create a Java project in Eclipse](https://java.lingt.xyz/ide)
+- [How to create a Java project in Eclipse](https://lingt.xyz/docs/programming/Java/1IDE)
 - [Notes for INSE6110](https://inse6110.lingt.xyz/)
 
 ## Development (Go)
